@@ -11,3 +11,10 @@ This work is licensed under a
 
 # Musei-Oliveriani-Podcast
 Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
+
+---
+
+# To-Do
+- Scrivere il copione del podcast.
+- Fare revisione del copione.
+- Se possibile registrare podcast.
