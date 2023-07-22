@@ -7,6 +7,12 @@ Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/LaTeX_Action.yml)
 
 ---
+
+# In caso di nessuna Release
+- Scarica i [documenti](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/workflows/LaTeX_Action/main/Copione.zip) dimostrativi.
+
+---
+
 # License
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
