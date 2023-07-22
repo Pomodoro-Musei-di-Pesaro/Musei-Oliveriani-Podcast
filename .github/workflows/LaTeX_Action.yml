@@ -4,13 +4,23 @@ jobs:
   build_latex:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Git repository
+      - name: Download file della Repo
         uses: actions/checkout@v3
-        with:
-          sparse-checkout: .
-      - name: Compilazione dei file del Copione
+      - name: Compilazione del file della Relazione
         uses: xu-cheng/latex-action@v2
         with: # insert here files to compile
-          root_file: "Script/*.tex"
-          glob_root_file: true
-      - run: echo "Tutto Okay :)"
+          working_directory: Script
+          root_file: |
+            Musei_Oliveriani_Podcast_Script.tex
+            Musei_Oliveriani_Podcast_Script_Enlarged.tex
+      - name: Ridenominazione files
+        run: |
+          mv Script/Musei_Oliveriani_Podcast_Script.pdf Script/Copione_Podcast_Musei_Oliveriani.pdf
+          mv Script/Musei_Oliveriani_Podcast_Script_Enlarged.pdf Script/Copione_Podcast_Musei_Oliveriani_Ingrandito.pdf
+      - name: Caricamento della Release temporanea
+        uses: actions/upload-artifact@v3
+        with: 
+          name: Copione
+          path: |
+            Script/Copione_Podcast_Musei_Oliveriani.pdf
+            Script/Copione_Podcast_Musei_Oliveriani_Ingrandito.pdf
