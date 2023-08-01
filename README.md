@@ -27,7 +27,5 @@ This work is licensed under a
 
 ---
 
-# To-Do
-- Scrivere il copione del podcast.
-- Fare revisione del copione.
-- Se possibile registrare podcast.
+# Lavori futuri
+- Registrazione del podcast.
