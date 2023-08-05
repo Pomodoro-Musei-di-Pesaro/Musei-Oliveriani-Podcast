@@ -11,8 +11,8 @@ Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 ---
 
 # Analytics
-[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/traffic/traffic-Musei-Oliveriani-Podcast/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/tree/traffic#-Musei-Oliveriani-Podcast)
-[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/traffic/traffic-Musei-Oliveriani-Podcast/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/tree/traffic#-Musei-Oliveriani-Podcast)
+[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/traffic/traffic-Musei-Oliveriani-Podcast/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast)
+[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/traffic/traffic-Musei-Oliveriani-Podcast/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/)
 
 ---
