@@ -20,6 +20,7 @@ Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 # Details
 [![GitHub commits](https://badgen.net/github/commits/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/commit/)
 [![GitHub stars](https://badgen.net/github/stars/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast?color=blue)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/watchers)
 [![GitHub issues](https://img.shields.io/github/issues/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub forks](https://badgen.net/github/forks/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/network/)
@@ -28,7 +29,7 @@ Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 ---
 
 # In caso di nessuna Release
-- Scarica i [documenti](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/workflows/LaTeX_Action/main/Copione.zip) dimostrativi.
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20i%20documenti%20dimostrativi-blue?style=for-the-badge&logo=download&logoColor=white "Documenti")](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/workflows/LaTeX_Action/main/Copione.zip)
 
 ---
 
