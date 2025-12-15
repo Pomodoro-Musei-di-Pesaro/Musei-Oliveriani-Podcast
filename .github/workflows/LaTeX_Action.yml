@@ -21,7 +21,7 @@ jobs:
           mv Script/Musei_Oliveriani_Podcast_Script.pdf Script/Copione_Podcast_Musei_Oliveriani.pdf
           mv Script/Musei_Oliveriani_Podcast_Script_Enlarged.pdf Script/Copione_Podcast_Musei_Oliveriani_Ingrandito.pdf
       - name: Caricamento della Release temporanea
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with: 
           name: Copione
           path: |
