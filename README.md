@@ -42,12 +42,6 @@ Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 
 ---
 
-## Lavori futuri
-
-- Registrazione del podcast.
-
----
-
 ## License
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
