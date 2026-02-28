@@ -36,6 +36,17 @@ Concept Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 
 ---
 
+<details>
+<summary>
+	
+## 👉 Read the documents
+
+</summary>
+
+<details>
+
+---
+
 ## In caso di nessuna Release
 
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20i%20documenti%20dimostrativi-blue?style=for-the-badge&logo=download&logoColor=white "Documenti")](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/workflows/LaTeX_Action/main/Copione.zip)
