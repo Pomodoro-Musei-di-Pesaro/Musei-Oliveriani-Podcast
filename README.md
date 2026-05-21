@@ -12,6 +12,7 @@ Concept Podcast riguardo le opere contenute nei Musei Oliveriani di Pesaro.
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/25d886e091c54aa0a0200af1392afdbb)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/LaTeX_Action.yml)
+[![pages-build-deployment](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/actions/workflows/pages/pages-build-deployment)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast)
 
 ---
